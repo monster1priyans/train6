@@ -1,0 +1,6 @@
+{
+  "name": "Crypto Pulse Dashboard",
+  "description": "Live BTC and ETH charting with a local signal engine, support zones, risk levels, and no API key needed.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
